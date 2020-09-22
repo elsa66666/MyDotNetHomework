@@ -1,7 +1,6 @@
 # MyDotNetHomework
 
-All the homework are shown in branches!
-第三次作业：
+# 第三次作业：
 1、写一个订单管理的控制台程序，能够实现添加订单、删除订单、修改订单、查询订单（按照订单号、商品名称、客户、订单金额等进行查询）功能。
 提示：主要的类有Order（订单）、OrderDetails（订单明细），OrderService（订单服务），订单数据可以保存在OrderService中一个List中。在Program里面可以调用OrderService的方法完成各种订单操作。
 要求：
