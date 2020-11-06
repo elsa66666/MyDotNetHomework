@@ -1,0 +1,6 @@
+D:\Csharp\homework1.2\homework1.2\bin\Debug\homework1.2.exe.config
+D:\Csharp\homework1.2\homework1.2\bin\Debug\homework1.2.exe
+D:\Csharp\homework1.2\homework1.2\bin\Debug\homework1.2.pdb
+D:\Csharp\homework1.2\homework1.2\obj\Debug\homework1.2.csprojAssemblyReference.cache
+D:\Csharp\homework1.2\homework1.2\obj\Debug\homework1.2.exe
+D:\Csharp\homework1.2\homework1.2\obj\Debug\homework1.2.pdb
